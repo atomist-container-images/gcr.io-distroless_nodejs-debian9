@@ -1,3 +1,3 @@
-# Tags: 14, latest
+# Tags:  14, latest
 FROM gcr.io/distroless/nodejs-debian9:14
 FROM gcr.io/distroless/nodejs-debian9:latest
