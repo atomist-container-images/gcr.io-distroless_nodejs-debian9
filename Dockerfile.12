@@ -1,2 +1,0 @@
-# Tags:  12
-FROM gcr.io/distroless/nodejs-debian9:12
